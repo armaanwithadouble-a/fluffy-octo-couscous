@@ -10,7 +10,7 @@ then umm open terminal and type these commands:
 
 ```pip install realtimestt``` (this lets the program type what you're saying)
 
-```pip install pytt3``` (this lets the program read out the reason for your demise)
+```pip install pyttsx3``` (this lets the program read out the reason for your demise)
 
 ```pip install pygame``` (this lets the program **Public Execution**)
 
